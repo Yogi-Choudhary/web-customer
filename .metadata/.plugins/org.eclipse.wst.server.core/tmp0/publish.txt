@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Dec 12 09:01:23 IST 2019
+org.eclipse.jst.jee.server\:/binary\:/home/wr0ngway/Desktop/Hibrenate-mvs-prj/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.2.2.RELEASE.jar=WEB-INF/lib/spring-web-5.2.2.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/home/wr0ngway/Desktop/Hibrenate-mvs-prj/web-customer-tracker/WebContent/WEB-INF/lib/spring-web-5.2.2.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.2.RELEASE-sources.jar

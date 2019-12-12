@@ -1,0 +1,141 @@
+
+Dec 11, 2019 11:04:08.76 NEW SESSION
+Dec 11, 2019 11:04:08.76 Opening in existing browser session.
+Dec 11, 2019 11:05:46.97 Opening in existing browser session.
+Dec 11, 2019 11:15:07.12 Opening in existing browser session.
+Dec 11, 2019 11:18:07.91 Opening in existing browser session.
+Dec 11, 2019 11:27:38.76 Opening in existing browser session.
+Dec 11, 2019 11:34:26.47 Opening in existing browser session.
+Dec 11, 2019 11:36:46.28 Opening in existing browser session.
+Dec 11, 2019 11:37:44.68 Opening in existing browser session.
+Dec 11, 2019 12:01:01.61 Opening in existing browser session.
+Dec 11, 2019 12:19:14.56 Opening in existing browser session.
+Dec 11, 2019 12:23:54.28 Opening in existing browser session.
+Dec 11, 2019 12:29:16.20 Opening in existing browser session.
+Dec 11, 2019 12:30:32.44 Opening in existing browser session.
+Dec 11, 2019 12:32:02.96 Opening in existing browser session.
+Dec 11, 2019 12:33:00.80 Opening in existing browser session.
+Dec 11, 2019 12:36:25.36 Opening in existing browser session.
+Dec 11, 2019 12:40:29.66 Opening in existing browser session.
+Dec 11, 2019 12:41:46.49 Opening in existing browser session.
+Dec 11, 2019 12:46:21.84 Opening in existing browser session.
+Dec 11, 2019 12:48:30.98 Opening in existing browser session.
+
+Dec 11, 2019 18:00:40.50 NEW SESSION
+Dec 11, 2019 18:00:40.50 [2839:2862:1211/180040.442734:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 11, 2019 18:00:44.98 [2880:2884:1211/180044.984104:ERROR:ssl_client_socket_impl.cc(969)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 11, 2019 18:01:58.19 [2839:2839:1211/180158.056566:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 11, 2019 18:08:44.38 Opening in existing browser session.
+Dec 11, 2019 18:24:50.08 Opening in existing browser session.
+Dec 11, 2019 18:33:31.50 Opening in existing browser session.
+Dec 11, 2019 18:34:37.70 Opening in existing browser session.
+Dec 11, 2019 18:38:31.46 Opening in existing browser session.
+Dec 11, 2019 18:48:09.37 Opening in existing browser session.
+Dec 11, 2019 18:51:11.41 Opening in existing browser session.
+Dec 11, 2019 18:56:52.97 Fontconfig error: Cannot load default config file
+Dec 11, 2019 19:00:27.76 Opening in existing browser session.
+Dec 11, 2019 19:00:50.93 [6851:1:1211/190050.934996:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 19:00:50.93 [6851:1:1211/190050.935788:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 19:00:57.20 [6867:1:1211/190057.204841:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 19:00:57.20 [6867:1:1211/190057.206268:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 19:00:57.31 [6867:1:1211/190057.313134:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 19:00:57.31 [6867:1:1211/190057.313797:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 19:00:57.31 [6867:1:1211/190057.316110:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 19:00:57.32 [6867:1:1211/190057.317442:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 19:01:48.16 [6867:1:1211/190148.163170:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 19:01:48.20 [6867:1:1211/190148.168216:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 19:13:02.44 Opening in existing browser session.
+Dec 11, 2019 19:17:03.99 Opening in existing browser session.
+Dec 11, 2019 19:23:49.36 Opening in existing browser session.
+Dec 11, 2019 19:26:08.21 [2839:2862:1211/192608.213261:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 19:26:28.63 [2839:2862:1211/192628.633442:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 19:27:12.88 [2839:2862:1211/192712.880964:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 19:28:39.01 [2839:2862:1211/192839.018701:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 19:31:58.22 [2839:2862:1211/193158.227484:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 19:38:17.43 [2839:2862:1211/193817.435875:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 19:48:17.44 [2839:2862:1211/194817.443377:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 19:58:17.45 [2839:2862:1211/195817.454666:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 20:22:46.31 Opening in existing browser session.
+Dec 11, 2019 20:40:46.27 [2839:2862:1211/204046.278073:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 20:41:04.91 [2839:2862:1211/204104.915967:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 11, 2019 20:41:56.71 [10140:1:1211/204156.717914:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 20:41:56.71 [10140:1:1211/204156.719386:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 20:58:29.05 Opening in existing browser session.
+Dec 11, 2019 21:04:22.23 Opening in existing browser session.
+Dec 11, 2019 21:19:59.75 Opening in existing browser session.
+Dec 11, 2019 21:28:17.81 Opening in existing browser session.
+Dec 11, 2019 22:00:47.04 Opening in existing browser session.
+Dec 11, 2019 22:02:38.21 [13441:1:1211/220238.148561:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 22:02:38.21 [13441:1:1211/220238.149078:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 11, 2019 22:05:27.93 [2839:2862:1211/220527.938851:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 22:05:57.66 [2839:2862:1211/220557.668417:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 22:06:53.23 [2839:2862:1211/220653.230467:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 22:08:29.05 [2839:2862:1211/220829.052993:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 11, 2019 22:13:18.23 [2876:2876:1211/221318.235040:ERROR:gl_surface_presentation_helper.cc(259)] GetVSyncParametersIfAvailable() failed for 1 times!
+Dec 11, 2019 22:51:43.24 Opening in existing browser session.
+
+Dec 12, 2019 07:21:07.20 NEW SESSION
+Dec 12, 2019 07:21:07.20 Opening in existing browser session.
+Dec 12, 2019 07:31:22.87 Opening in existing browser session.
+Dec 12, 2019 07:34:04.94 Opening in existing browser session.
+Dec 12, 2019 07:42:11.45 Opening in existing browser session.
+Dec 12, 2019 07:42:54.92 Opening in existing browser session.
+Dec 12, 2019 07:49:34.51 Opening in existing browser session.
+Dec 12, 2019 07:52:07.03 Opening in existing browser session.
+Dec 12, 2019 07:54:13.09 Opening in existing browser session.
+Dec 12, 2019 07:58:15.72 Opening in existing browser session.
+Dec 12, 2019 08:00:09.08 Opening in existing browser session.
+Dec 12, 2019 08:18:01.21 Opening in existing browser session.
+
+Dec 12, 2019 08:55:30.58 NEW SESSION
+Dec 12, 2019 08:55:30.58 [11547:11570:1212/085530.566386:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 12, 2019 08:56:06.25 [11547:11570:1212/085606.231425:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 12, 2019 08:57:02.85 [11547:11570:1212/085702.691807:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 12, 2019 08:57:18.77 [11547:11547:1212/085718.778343:ERROR:account_tracker.cc(241)] AccessTokenFetched error: Connection failed (-105).
+Dec 12, 2019 08:58:35.44 [11547:11570:1212/085835.447210:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 12, 2019 08:59:49.81 [11547:11547:1212/085949.814002:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 09:00:30.63 [11547:11547:1212/090030.636030:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 09:01:41.91 [11547:11570:1212/090141.915232:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 12, 2019 09:01:45.24 [11547:11547:1212/090145.243391:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 09:03:21.75 Fontconfig error: Cannot load default config file
+Dec 12, 2019 09:03:36.59 [11547:11547:1212/090336.599595:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 09:05:28.78 [11547:11570:1212/090528.779940:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 09:06:18.05 [11547:11547:1212/090618.054276:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 09:13:18.85 [11547:11547:1212/091318.856703:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 09:24:48.41 [12651:1:1212/092448.415197:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:24:48.41 [12651:1:1212/092448.416060:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:34:08.38 [12692:1:1212/093408.383250:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:34:08.38 [12692:1:1212/093408.385341:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:34:08.38 [12692:1:1212/093408.389235:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:34:08.39 [12692:1:1212/093408.390717:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:34:08.39 [12692:1:1212/093408.393763:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:34:08.39 [12692:1:1212/093408.394565:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:34:08.39 [12692:1:1212/093408.398630:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:34:08.40 [12692:1:1212/093408.402467:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:49:45.50 [13091:1:1212/094945.507328:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:49:45.53 [13091:1:1212/094945.507940:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:50:31.40 [13090:1:1212/095031.407591:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:50:31.40 [13090:1:1212/095031.408457:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:50:33.35 [12650:1:1212/095033.359515:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:50:33.36 [12650:1:1212/095033.361071:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Dec 12, 2019 09:55:15.96 [11547:11570:1212/095515.964422:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 09:55:35.01 [11547:11570:1212/095535.014182:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 12, 2019 09:55:43.83 [11547:11570:1212/095543.830112:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 09:56:13.11 [11547:11570:1212/095613.113565:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 12, 2019 09:56:17.51 [11547:11570:1212/095617.517052:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 09:56:28.35 [11547:11570:1212/095628.356614:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 09:56:28.86 [11547:11570:1212/095628.859830:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 09:56:42.42 [11547:11570:1212/095642.424079:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -105
+Dec 12, 2019 10:01:07.86 [11547:11570:1212/100107.860755:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 10:16:00.56 [11547:11570:1212/101600.566555:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 10:16:23.45 [11547:11570:1212/101623.454927:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 10:17:11.55 [11547:11570:1212/101711.549523:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 10:18:56.10 [11547:11570:1212/101856.109437:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 10:21:44.14 [11547:11570:1212/102144.142176:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 10:24:37.27 [11547:11547:1212/102437.276314:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 10:25:06.42 [11547:11547:1212/102506.425203:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 10:26:02.34 [11547:11547:1212/102602.342555:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 10:27:21.36 [11547:11570:1212/102721.367386:ERROR:connection_factory_impl.cc(417)] Failed to connect to MCS endpoint with error -106
+Dec 12, 2019 10:28:01.96 [11547:11547:1212/102801.967251:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 10:31:14.21 [11547:11547:1212/103114.216184:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Dec 12, 2019 10:33:06.24 [11547:11547:1212/103306.249299:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
